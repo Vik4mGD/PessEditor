@@ -30,8 +30,17 @@ Built with Python, PySide6 and FFmpeg, it aims to provide a simple and straightf
 
 ## Screenshots
 
-Screenshots coming soon.
+<div align="center">
 
+### Main Interface
+
+<img src="Screenshots/main.png" width="800">
+
+### Video Selected
+
+<img src="Screenshots/video-selected.png" width="800">
+
+</div>
 ## Download
 
 Download the latest version from [GitHub Releases](https://github.com/Vik4mGD/PessEditor/releases).

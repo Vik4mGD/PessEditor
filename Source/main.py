@@ -261,7 +261,6 @@ def windows_language():
 
     return "en"
 
-
 def stylesheet(theme):
     if theme == "dark":
         bg = "#202020"
