@@ -21,6 +21,9 @@ Built with Python, PySide6 and FFmpeg.
 - Video preview.
 - Video editing and export.
 - Integrated FFmpeg and FFprobe.
+- Automatic interface language detection.
+- Multilingual interface: English, Spanish and Russian.
+- Light and dark themes.
 - Standalone Windows application.
 - No separate Python installation required to run the packaged version.
 
