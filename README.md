@@ -21,7 +21,7 @@ Built with Python, PySide6 and FFmpeg, it aims to provide a simple and straightf
 - Video preview.
 - Basic video editing controls.
 - Video export powered by FFmpeg.
-- MP4 and MKV export.
+- MP4, MKV, MOV and WebM export.
 - Automatic interface language detection.
 - Multilingual interface: English, Spanish and Russian.
 - Light and dark themes.
@@ -41,6 +41,7 @@ Built with Python, PySide6 and FFmpeg, it aims to provide a simple and straightf
 <img src="Screenshots/video-selected.png" width="800">
 
 </div>
+
 ## Download
 
 Download the latest version from [GitHub Releases](https://github.com/Vik4mGD/PessEditor/releases).
@@ -81,6 +82,9 @@ PessEditor/
 │   └── THIRD_PARTY_NOTICES.txt
 ├── Resources/
 │   └── pess.ico
+├── Screenshots/
+│   ├── main.png
+│   └── video-selected.png
 ├── Source/
 │   └── main.py
 ├── PessEditor.iss
