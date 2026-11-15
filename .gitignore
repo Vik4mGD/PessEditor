@@ -1,0 +1,22 @@
+﻿# Compiled application
+PessEditor.exe
+_internal/
+
+# Build output
+Build/Output/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.spec
+.venv/
+venv/
+
+# Editors and temporary files
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+

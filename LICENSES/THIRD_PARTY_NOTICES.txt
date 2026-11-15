@@ -1,0 +1,12 @@
+﻿PESS EDITOR - THIRD PARTY SOFTWARE
+
+This package includes:
+- PySide6 / Qt: https://www.qt.io/licensing/
+- PyInstaller: https://pyinstaller.org/
+- FFmpeg Essentials build by Gyan.dev:
+  https://www.gyan.dev/ffmpeg/builds/
+- FFmpeg licensing information:
+  https://ffmpeg.org/legal.html
+
+Review the applicable licenses and redistribution requirements
+before distributing this package.
