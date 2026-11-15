@@ -2,7 +2,7 @@
 
 # Pess Editor
 
-**A simple and lightweight video editor for Windows.**
+**A small, lightweight video editing tool for Windows.**
 
 [Download](https://github.com/Vik4mGD/PessEditor/releases) | [Source Code](https://github.com/Vik4mGD/PessEditor)
 
@@ -12,15 +12,16 @@
 
 ## About
 
-Pess Editor is a desktop video editing application for Windows, designed to provide a straightforward video editing experience.
+Pess Editor is a lightweight desktop application for basic video editing and exporting.
 
-Built with Python, PySide6 and FFmpeg.
+Built with Python, PySide6 and FFmpeg, it aims to provide a simple and straightforward experience without the complexity of larger video editing software.
 
 ## Features
 
 - Video preview.
-- Video editing and export.
-- Integrated FFmpeg and FFprobe.
+- Basic video editing controls.
+- Video export powered by FFmpeg.
+- MP4 and MKV export.
 - Automatic interface language detection.
 - Multilingual interface: English, Spanish and Russian.
 - Light and dark themes.
@@ -37,7 +38,7 @@ Download the latest version from [GitHub Releases](https://github.com/Vik4mGD/Pe
 
 Available formats:
 
-- **Windows Installer:** A standard Windows installation wizard.
+- **Windows Installer:** Install Pess Editor using a standard setup wizard.
 - **Portable ZIP:** Run Pess Editor without installing it.
 
 ## Building from Source
